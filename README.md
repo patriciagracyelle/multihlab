@@ -1,0 +1,2 @@
+# multihlab
+Repositório voltado para o desenvolvimento do site multiHlab que é um laboratório multiusuários voltado para projetos coletivos em humanidades. Nosso objetivo é integrar professores e alunos dos cursos de mestrado da Fundação Joaquim Nabuco, professores e alunos do ensino médio e a equipe do laboratório para experimentar e produzir materiais didáticos multimodais para o ensino das Ciências Humanas na Educação Básica.
